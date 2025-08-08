@@ -1,13 +1,15 @@
 ## Hi there 👋
-
+Welcome to my GitHub profile!
 I'm **Adir Ofir**, a curious and determined Computer Science B.Sc. student at Ariel University.  
 I'm a **gamer**, a **builder**, and someone who loves turning problems into working code.
-
+Here, you'll find a collection of my projects, coursework, and contributions that showcase my skills and experiences.
 ---
 
 ### 🎮 About Me
 
-- 🎓 Passionate about low-level programming, algorithms, and systems architecture  
+- 🎓 Passionate about low-level programming, algorithms, and systems architecture
+- Education: Pursuing a Bachelor's Degree in Computer Science at Ariel University
+- Currently Studying: Advanced Algorithms, System Programming 2 (in C++), Automata and formal languages, Statistics & Probability and Operating Systems.
 - 🧠 Obsessed with understanding how things work under the hood  
 - 👾 Dreaming of working in the game industry — not just as a gamer, but as a developer
 
@@ -31,7 +33,8 @@ I'm a **gamer**, a **builder**, and someone who loves turning problems into work
 ---
 
 ### 📫 Reach Me
-
+- I'm all ears for collaboration, sharing knowledge, and making new friends. Feel free to reach out to me through LinkedIn or here on GitHub.
+- Let's learn, code, and grow together!
 - 📧 [adirofir123@gmail.com](mailto:adirofir123@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/adir-ofir-463721240)
 
