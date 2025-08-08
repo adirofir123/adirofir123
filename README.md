@@ -1,4 +1,5 @@
 ## Hi there 👋
+
 Welcome to my GitHub profile!
 I'm **Adir Ofir**, a curious and determined Computer Science B.Sc. student at Ariel University.  
 I'm a **gamer**, a **builder**, and someone who loves turning problems into working code.
