@@ -8,7 +8,6 @@ I'm a **gamer**, a **builder**, and someone who loves turning problems into work
 ### 🎮 About Me
 
 - 🎓 Passionate about low-level programming, algorithms, and systems architecture  
-- 💡 Always trying to build tools that *actually do something useful*  
 - 🧠 Obsessed with understanding how things work under the hood  
 - 👾 Dreaming of working in the game industry — not just as a gamer, but as a developer
 
@@ -17,8 +16,6 @@ I'm a **gamer**, a **builder**, and someone who loves turning problems into work
 ### 🧰 Skills & Technologies
 
 - **Languages:** `C++`, `C`, `Python`, `Java`, `C#`, `JavaScript`, `TypeScript`, `SQL`, `HTML`, `CSS`, `Bash`
-- **Frameworks & Tools:** `.NET`, `Angular`, `React`, `Node.js`, `Express`, `SFML`, `Git`, `Valgrind`, `Makefile`, `Linux`, `VSCode`
-- **Concepts:** `OOP`, `Design Patterns`, `Multithreading`, `Socket Programming`, `Memory Management`, `Data Structures`, `Convex Hull`
 
 ---
 
@@ -30,14 +27,6 @@ I'm a **gamer**, a **builder**, and someone who loves turning problems into work
 - 🧮 [`CPP-Graph-Algorithms`](https://github.com/adirofir123/CPP-Graph-Algorithms) — BFS, DFS, Dijkstra, Prim, and Kruskal implementations
 - 🕹️ [`CPP-CoupGame`](https://github.com/adirofir123/CPP-CoupGame) — Turn-based game with multiple roles and GUI in SFML
 - 🧠 [`Demi`](https://github.com/adirofir123/Demi) — Fully functional terminal-based Excel clone with formula parsing and cell references
-
----
-
-### 🌱 Currently Learning
-
-- Game architecture & simulation patterns  
-- Multithreaded systems in C++  
-- Advanced data structures and optimization techniques
 
 ---
 
