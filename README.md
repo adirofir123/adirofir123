@@ -17,7 +17,7 @@ Here, you'll find a collection of my projects, coursework, and contributions tha
 
 ---
 
-### 🧰 Skills & Technologies
+### 🧰 Skills
 
 - **Languages:** `C++`, `C`, `Python`, `Java`, `C#`, `JavaScript`, `TypeScript`, `SQL`, `HTML`, `CSS`, `Bash`
 
